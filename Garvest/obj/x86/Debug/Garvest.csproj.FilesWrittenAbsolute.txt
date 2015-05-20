@@ -1,0 +1,6 @@
+/home/mike/Projects/Garvest/Garvest/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/mike/Projects/Garvest/Garvest/obj/x86/Debug/Garvest.gtk-gui.gui.stetic
+/home/mike/Projects/Garvest/Garvest/bin/Debug/Garvest.exe.mdb
+/home/mike/Projects/Garvest/Garvest/bin/Debug/Garvest.exe
+/home/mike/Projects/Garvest/Garvest/obj/x86/Debug/Garvest.exe
+/home/mike/Projects/Garvest/Garvest/obj/x86/Debug/Garvest.exe.mdb
